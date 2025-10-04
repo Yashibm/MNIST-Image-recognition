@@ -1,4 +1,4 @@
-# Image recognition of handwritten digits using CNN and ANN 
+# CNN and ANN for image recognition of handwritten digits 
 
 This repo contains two models that were used to recognise handwritten digit images from the MNIST dataset.
 
