@@ -1,5 +1,7 @@
 # Image recognition of handwritten digits using CNN and ANN 
 
+This repo contains two models that were used to recognise handwritten digit images from the MNIST dataset.
+
 Two models implemented:
 Feedforward ANN (baseline)
 Convolutional Neural Network (CNN – improved performance)
